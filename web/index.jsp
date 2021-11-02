@@ -25,7 +25,7 @@
                                 <small id="emailHelp" class="form-text text-muted">Ingrese su documento sin espacios ni puntos</small>
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputPassword1">Contraseña</label>
+                                <label for="exampleInputPassword1">Password</label>
                                 <input type="password" class="form-control" id="exampleInputPassword1" name="txtpassword" required="">
 
                             </div>

@@ -27,7 +27,7 @@
                         <div class="col-md-6 d-flex">
                             <input type="date" name="fechafinal" class="form-control" placeholder="ingrese la fehca de final en formato 2021-10-01"  required="" value="" >
                             <small class="form-text" style="color: black">Ingrese fecha final del reporte</small>
-                            <input type="submit" name="accion" value="Reporte" class="btn btn-outline-dark">
+                            <button type="submit" class="btn btn-dark" name="accion" value="Reporte">reporte</button>
                             
                         </div>
                     </div>

@@ -566,7 +566,7 @@ public class Controlador extends HttpServlet {
         
         if (menu.equals("Cliente_reporte")) {
             switch (accion) {
-                case "Clienter":
+                case "ver":
                     String fechaI = request.getParameter("fechainicio");
                     String fechaF = request.getParameter("fechafinal");
                     SimpleDateFormat sdf = new SimpleDateFormat("YYYY-MM-dd");
